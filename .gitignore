@@ -1,1 +1,14 @@
+# Unity generated
+Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+UserSettings/
 .vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
