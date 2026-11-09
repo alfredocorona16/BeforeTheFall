@@ -1,0 +1,34 @@
+PISO DE PIEDRA - TILESET PARA UNITY TILEMAP (Before the Fall)
+=============================================================
+Pixel art retro, 48x48 px por tile. Sin pasto: solo el piso con su contorno.
+
+CONTENIDO
+---------
+- piso_fill.png + piso_fill_var1/2/3.png : losa de relleno (seamless, auto-repetible).
+    Usa las 4 con un "Random Tile" para que el piso no se vea repetitivo.
+- tile_C  = centro (relleno)
+- tile_T / B / L / R         = bordes (contorno arriba/abajo/izq/der)
+- tile_TL / TR / BL / BR      = esquinas exteriores
+- tile_IN_NW/NE/SW/SE         = esquinas interiores (concavas)
+- tileset_9slice.png (144x144) = hoja 3x3 lista para recortar (9-slice)
+- tileset_atlas.png            = todos los tiles en una fila (48 px c/u)
+
+IMPORTAR EN UNITY
+-----------------
+1. Arrastra los PNG a Assets/Art/Tiles/.
+2. Selecciona cada uno (o la hoja) y en el Inspector:
+     Texture Type   = Sprite (2D and UI)
+     Pixels Per Unit = 48   (o el PPU que uses en el proyecto)
+     Filter Mode    = Point (no filter)
+     Compression    = None
+   Si usas tileset_9slice.png o tileset_atlas.png:
+     Sprite Mode = Multiple  ->  Sprite Editor  ->  Slice
+       Type = Grid By Cell Size,  Pixel Size = 48 x 48  ->  Slice ->  Apply
+3. Crea los Tiles: selecciona los sprites -> clic derecho -> Create > 2D > Tiles
+   (o usa un Rule Tile para que ponga bordes/esquinas automaticamente).
+4. Window > 2D > Tile Palette -> crea una paleta, arrastra los tiles y pinta.
+
+CONSEJO (Rule Tile automatico)
+------------------------------
+Con un Rule Tile asignas: centro=tile_C, lados=T/B/L/R, esquinas ext=TL/TR/BL/BR,
+esquinas int=IN_*. Asi pintas la forma que quieras y el contorno sale solo.

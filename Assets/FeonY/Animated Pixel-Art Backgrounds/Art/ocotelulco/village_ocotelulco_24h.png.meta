@@ -1,0 +1,5528 @@
+fileFormatVersion: 2
+guid: 3bfa5365b3b6d2e469cd6b60023c9fe2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5370121169851460586
+    second: village_ocotelulco_24h_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8109
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb2dc970c0868a40800000000000000
+      internalID: 5370121169851460586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 8109
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873918aaf6b776f4b9f808716e151d83
+      internalID: -126756810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 8109
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d79c359d2388f4a8910b2e0c6050bf
+      internalID: 1365732485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 8109
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7761aa0615b834e97870b44e1eb585
+      internalID: 449528600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_4
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 8109
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb77b977e9141ea42a02a58da731f709
+      internalID: -366184171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_5
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 8109
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d06cc3f9f4b5f4f8b39a201d296675
+      internalID: 897861790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_6
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 8109
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f95c50b0cb5a9141af4070255d32599
+      internalID: 1501116867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_7
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 8109
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0e6c8023b1a6044a4d8927e7d387a3
+      internalID: -81272917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_8
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 8109
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c37bc813879e540b072c24375a0d70
+      internalID: 961181616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_9
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 8109
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b943f9e85972a141a4bd86082f309a5
+      internalID: -1458189456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_10
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 8109
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26be294ff2ef716439f972826f74a6c1
+      internalID: -224706004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_11
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 8109
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40153cbc2e8686545acf79b02d1b5fb7
+      internalID: -593633939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_12
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 8109
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ca01b9915b87344805bdae7fe51d0d
+      internalID: 603710077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7632
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e5abf286dfc4b42a35d8ce0ef16032
+      internalID: -1322537446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 7632
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aaf502b5af1f754da5df66a6f3d08f3
+      internalID: -1868702710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_15
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 7632
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3d91a05260a034891b5236b38a630d
+      internalID: -1648806575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_16
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 7632
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74233fb6149c6f45a9cff35f6b5d634
+      internalID: -1621569061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_17
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 7632
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dc51706e6054245a981544b2ef4c8b
+      internalID: 1877511912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_18
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 7632
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbbfa5fd6aafc243922325ddc0ccea1
+      internalID: 2099683681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_19
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 7632
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613852f9907140b48ab0bb76893b04c2
+      internalID: 156814655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_20
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 7632
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e05ecd8b8d8e747be17321b72f8e50
+      internalID: -2099206186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_21
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 7632
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd839b49f7a4874b817d20ae11a0d96
+      internalID: -1718811065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_22
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 7632
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff3f8865abb9bd47932d553f5560278
+      internalID: 46371828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_23
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 7632
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80502bb05390fdb4f95375734e853929
+      internalID: 994256522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_24
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 7632
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ba3db6e7d39cd48bad296b3fde2ead
+      internalID: -1286805423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_25
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 7632
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41e7f9aec25ebd43a07dc0d7e27f89d
+      internalID: 973013553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7155
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf260e9dc9c42042b8b1fd88b9f27f2
+      internalID: 1783420649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 7155
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16375b455624e1f4ea2f84444255cb16
+      internalID: -1599538902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_28
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 7155
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e9420e672054d4ebfef3b836738c86
+      internalID: 1334157909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_29
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 7155
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf598ecf9d74b2741aee8323c94afe4d
+      internalID: -260596001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_30
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 7155
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60815b068b510454f9367cd36a8e900f
+      internalID: -391938485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_31
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 7155
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d463a1ddc72f79147bd147e2273cdcf9
+      internalID: -858821732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_32
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 7155
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1938e48ccd4cc648a243bc00cf596a7
+      internalID: -37837179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_33
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 7155
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b48b05604350c4fa1e394f0f71e73a
+      internalID: -1811715866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_34
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 7155
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60126d7c0f4ed9744b1e6bc099cc7f02
+      internalID: -404237197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_35
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 7155
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9f170e9babd274ab8418838bb4e06c
+      internalID: 1044398188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_36
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 7155
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57011bb83c256874b8525069bc65a4da
+      internalID: 1562447046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_37
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 7155
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115129451b93f1e46a0d755974f66067
+      internalID: 416549333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_38
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 7155
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7e036d7ae648442bdf6eef7d5f3934
+      internalID: -566963994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6678
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262980de2d8f759438db8b5540f42a43
+      internalID: 471159435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 6678
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55782039d88df54fa315509ba2f9cce
+      internalID: -274265118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_41
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 6678
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffd5740fb277d9499c53dacccdde450
+      internalID: -290124847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_42
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 6678
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b417a549202888445aee01341545bc9f
+      internalID: 726747149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_43
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 6678
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e346ebc2fb4bc1c45a9cd434adbc235f
+      internalID: 1740678330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_44
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 6678
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab57fad175d4f54eb1b32da400b934a
+      internalID: 751588419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_45
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 6678
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696ffcd7fd489ba4a880a6599d117ff8
+      internalID: -535863870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_46
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 6678
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c813ca7f68f97de45bdf1b3c63691e5b
+      internalID: 1834840973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_47
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 6678
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff06a4b6fbe77d84089ead5c22cfb8b7
+      internalID: 701814030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_48
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 6678
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c20b3100552ef4e9fb2e1229c0e454
+      internalID: -1017568794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_49
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 6678
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea501530ad8e56409009112b75fac88
+      internalID: 1631909177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_50
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 6678
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91cbb5bbaca40b42a46968204f76f0a
+      internalID: -330427864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_51
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 6678
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1816155b1fc874488adad7987811f8
+      internalID: 740810115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6201
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fdf2e8caa1a964f971d4f529db2adf
+      internalID: -814929520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 6201
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbb7176f3d5d9c44a106d81622dfb72
+      internalID: -1687835803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_54
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 6201
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b9a0cd88ed6f445957d7257cd3d034
+      internalID: 1588017864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_55
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 6201
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c0b152fcd547443a2de6bfa31b8b59
+      internalID: 522523551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_56
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 6201
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff4bf11e1f2b6b448431cd5891f4622
+      internalID: -1250154099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_57
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 6201
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4ef53d646077748b1c99fa8ac82272
+      internalID: 341877727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_58
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 6201
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151d0b2afa5321e49916cc40ced56d59
+      internalID: 2140628891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_59
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 6201
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186626528d24bca4e9d7b8fa2ed71598
+      internalID: -1111243295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_60
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 6201
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f963debe59f5c2439f1ca94073252d7
+      internalID: -1744990476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_61
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 6201
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d987123d8280f7347894967df7efeb29
+      internalID: -2146382035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_62
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 6201
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6049b98b2d2de604cbf94e5692bbbf8c
+      internalID: -8019911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_63
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 6201
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f77e3deefc79644acd70ee41444378
+      internalID: 315670225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_64
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 6201
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5898034657a22045b87bdfe0f55e684
+      internalID: 1452697198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5724
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a5d84c373584b4194659eacb2ddb0a
+      internalID: -1508988889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_66
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 5724
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72f06e83f8cbd94da82fc0229e0dbe0
+      internalID: -1128305378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_67
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 5724
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9f3629f1c0de44d8b838f64fef433a
+      internalID: 1073879689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_68
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 5724
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee75a76bc0109349949d4930d16daec
+      internalID: -931133093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_69
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5724
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a93d75e28157fd4baee568ce3a0c686
+      internalID: 2138324651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_70
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 5724
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c761aa4690c2f934a9bc29b37c6887be
+      internalID: 1954599064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_71
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 5724
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5baed8ba909144e8acfabaf44407d7
+      internalID: -473370590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_72
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 5724
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78389d0a35cb4b499d4c6ad4b8411ea
+      internalID: 1902984780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_73
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 5724
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdcea3093082a340ac326e493bb0d8c
+      internalID: -1105143943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_74
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 5724
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8c03d2b2632e24881ea0e254ca44b9
+      internalID: 559255764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_75
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 5724
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b90c53ed99c954e8aa3ec793cb9a6e
+      internalID: -2100922409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_76
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 5724
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b7405b556e4ce4a88be30c3754e298
+      internalID: -1816494186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_77
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 5724
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f475bd694f9920c4abdd3350fefd6f42
+      internalID: -1759211758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5247
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc1b421ec63efd438dabfeaae51aeff
+      internalID: -1037492121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_79
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 5247
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7a1994309528d4381d01c5579b1a2f
+      internalID: -614906589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_80
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 5247
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a58a77096931464297e3c22231bd9f3
+      internalID: -299342266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_81
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 5247
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134e4c015492c644ba40e36dea98960d
+      internalID: -1546091911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_82
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5247
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62551ef6951be8d439924531b07198f9
+      internalID: -952644749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_83
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 5247
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ebb1cbff37e294da54520e6154b238
+      internalID: 1650089515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_84
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 5247
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96eba50e6611a214b877bb34f775efec
+      internalID: 569402131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_85
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 5247
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6e9ec2b3d082d4cab0659426d98422
+      internalID: -1792560002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_86
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 5247
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb24a4cb2df9fc24582ff405804f865a
+      internalID: 143812672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_87
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 5247
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912820cec14d5b948acefc1ade2108b6
+      internalID: 1713016612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_88
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 5247
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f038b57cb93810344b656bba69120f08
+      internalID: -1050455222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_89
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 5247
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c75612d11bba2240bdeb082e615bb8e
+      internalID: 534902542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_90
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 5247
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15db02b6812bb1741bf42bcb00bf2d24
+      internalID: 1830684208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4770
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922ed47d1caf3b749ab02ec93f553236
+      internalID: -246662022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_92
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 4770
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45e315d6229caf428310494a225b343
+      internalID: -1009037631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_93
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4770
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f596685ff55f243ad5457b1cbb2e50
+      internalID: -1078300565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_94
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4770
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8464fa702aa9c89428ad206fcfc8b597
+      internalID: 681008380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_95
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4770
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443b53aec4f07894bade1c15e8b6fcad
+      internalID: 740163033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_96
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4770
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be39945410127b4ab03d473996adf0a
+      internalID: -322921579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_97
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 4770
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1fbb01484ce4b40b8a74f5481f9a43
+      internalID: 63435787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_98
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 4770
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439767eb4e178fb499e538570158d30b
+      internalID: 352977045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_99
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 4770
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafeb7cc63fc36243afa234080687e6e
+      internalID: 1478270319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_100
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 4770
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff3dc6c86e0fdb4688100d878d3f719
+      internalID: 1201784886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_101
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 4770
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32979da5f3ea2d4992b256478c75b58
+      internalID: -269775962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_102
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 4770
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ae1bd909c442b4ca96d2329d903ff4
+      internalID: 1218490590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_103
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 4770
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba6c5a2f7397a84cbffcf6280e301e1
+      internalID: 1373709081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4293
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3001123ce778d4cad667e96c9e6703
+      internalID: 477617301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_105
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 4293
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1880c5f1755bd46a99538ae005c655
+      internalID: 1939405386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_106
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4293
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91583b32affdc6749a5a088e7a4925c4
+      internalID: 466026741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_107
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4293
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bb65659a32b094b9f9a64fc9abd09c
+      internalID: 1951003683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_108
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4293
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134152b53d598e8408b44fc621b35b7d
+      internalID: -419033396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_109
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4293
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249f57576edffd046a4131c796dcae23
+      internalID: -1083719861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_110
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 4293
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1b790f41e65da478c9fe64f713731f
+      internalID: -651682563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_111
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 4293
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6624fc6cd099f604e8b62461ee96987b
+      internalID: 590100059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_112
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 4293
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd53da6856ab764286f265236515cb3
+      internalID: 390278766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_113
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 4293
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5610daabc2f79429c0abc549b0f2b6
+      internalID: 493410068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_114
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 4293
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e00b53b16e3a545be894cd34b11f29
+      internalID: 1991909972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_115
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 4293
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdee404cd0dbfb14183e1fa9ecfdb186
+      internalID: 885230450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_116
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 4293
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fa660eb42c7d74583f492bd57b8118
+      internalID: 853624828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3816
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42f6ed497167c24caa1464da9312ef2
+      internalID: 1740429811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_118
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3816
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a17b83c6bd139b458f6015de08cc3ec
+      internalID: -973857128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_119
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3816
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6201996905d4d41ac55d418f156773
+      internalID: -1639870637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_120
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3816
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d494a0443360c4193fc87881b6d8bc
+      internalID: 614189148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_121
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3816
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955d71cf24663d344af0a56d56886da7
+      internalID: 1239390294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_122
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3816
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd6e50569367dd4a9d68b9b1388756f
+      internalID: 299413128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_123
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3816
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d165541236915584db45406fdd940ab8
+      internalID: 210133246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_124
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 3816
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124b4b490fd7a5d4d80607e3f15d7552
+      internalID: 665804219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_125
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3816
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4352719def7e56489a5e6cbb439dba3
+      internalID: -1221962499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_126
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3816
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef089d7708a03494994054ed35988e60
+      internalID: 614687128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_127
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3816
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47160c3e3b071240ab83e5aadb518f8
+      internalID: 846765973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_128
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 3816
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35287529af5f7b48b2e4bd588786244
+      internalID: -1850123917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_129
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 3816
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f29f0e786b42dd439851d9d1ae6fc33
+      internalID: 1136719745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3339
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b3cc611277b5a41b2f5fb0205a3432
+      internalID: -10309624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_131
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3339
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5245b4dde414249b0ea1025159a06e
+      internalID: -1779737948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_132
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3339
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86729accc102c042bc4634252ef7d1b
+      internalID: 1002284497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_133
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3339
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf9876c2fc38134fbfbec7baf27e16a
+      internalID: 1707080724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_134
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3339
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d08fa5890e55c4a98615e2d3083854
+      internalID: 678170268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_135
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3339
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948184b27264ba74286adb3e8c90499b
+      internalID: -242560896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_136
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3339
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84fe3589b4c1634bb53cec66674dfde
+      internalID: 511750132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_137
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 3339
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5706b3f4b7f41844a00148147afe044
+      internalID: 2013796322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_138
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3339
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2267b51fe8af22498947f87f3edd089
+      internalID: 597179545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_139
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3339
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ef8e1db2ea8df42b192351a96554df
+      internalID: 355089769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_140
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3339
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e30a61057919b469b626a2a030d9c2
+      internalID: -2135870971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_141
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 3339
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2697c3dfb22b02a47b86e944a02b8802
+      internalID: 722682792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_142
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 3339
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0c4df343552ac44a30047e062114ec
+      internalID: 714406048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2862
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5ec2cd6025f9f43904cb6ea3083c0d
+      internalID: 385507818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_144
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2862
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58de1d95d8633e4ebf660f6b159bac4
+      internalID: -1640221375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_145
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2862
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d391762bc12f3b42836faa91a87f184
+      internalID: -1510550117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_146
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2862
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd84c1204ca7a54c935ed3347989723
+      internalID: 2080312987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_147
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2862
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfc7ad74f11d314a88093ed4eeaacfe
+      internalID: 345023971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_148
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2862
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bc18dcd75d49947a6effa60253d852
+      internalID: 1640363052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_149
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2862
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5be7b4867c2cb4096170f510497681
+      internalID: 2102525337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_150
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2862
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49f2b2eed754b6458050e57ae1d60ba
+      internalID: 1041453945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_151
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2862
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4a1caf5ac314b4091587219f37c224
+      internalID: -1224515894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_152
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2862
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c08718670a8d94fa8507ebcfeb1e66
+      internalID: -1086073880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_153
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2862
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d503d7850ab23743ac73f963a9b8a66
+      internalID: 772224152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_154
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 2862
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efbb6c65ba9b23499507624824d6458
+      internalID: -391730209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_155
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2862
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08dbe410da60b8448745051624f5451
+      internalID: 61045124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2385
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df27925a73b4a0f45958663db1d00726
+      internalID: -1499927620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_157
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2385
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337a613fbfd98204d9c5e16b215754ac
+      internalID: 373505919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_158
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2385
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f8dda067531504487aeaa5604972de
+      internalID: -736391646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_159
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2385
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e0182ab0d03fe4588ddccf80437e05
+      internalID: 2019503933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_160
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2385
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f902ce649e1b34f88f9e101e6e2e45
+      internalID: 1169561867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_161
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2385
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659dad0ae08539d4f9e1eb1fb79c549f
+      internalID: -213975880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_162
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2385
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f7482cac328b9468b99ea69b097e38
+      internalID: 1660208618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_163
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2385
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0954e4472efd641af86e38e7291acc
+      internalID: -774050040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_164
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2385
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b180f6ff021ad46aa7442f3c41f405
+      internalID: 1525474490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_165
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2385
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d2672611eaca1449c18165da4e3d81
+      internalID: -2076465887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_166
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2385
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5c7b6dda05b8949b6e618f5ab991cf
+      internalID: 574199518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_167
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 2385
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4206a703271de2a4babc2d89f6ba3698
+      internalID: 775130862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_168
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2385
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865cffa52618e234c943669ba17f5631
+      internalID: -534395460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1908
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c124bf1d6f3edd74392fcadd7f23c24c
+      internalID: -1115928518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_170
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1908
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31011c76e838f5044a4b4eb6f15fe656
+      internalID: -531402478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_171
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1908
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0736dbbd6336dc4f9f9ce18543145a9
+      internalID: -374323639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_172
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1908
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a735014cf26d8a4890da4c766d762bd
+      internalID: -1186366079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_173
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1908
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c1248aaf259504bb70f019fc792c2b
+      internalID: 1523244390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_174
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1908
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832cf26877c8fab499e386116a965154
+      internalID: 1520504084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_175
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1908
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95753813124b58b43aba2a9d6b956f92
+      internalID: 2023211581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_176
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1908
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b19de9e33396f4ab4dbdaa4623acca
+      internalID: 1586645835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_177
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1908
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcd764de0950a34db8fc21913220c4a
+      internalID: 1712877777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_178
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1908
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14d05433cbaf934f9666cffe3625377
+      internalID: -2027997896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_179
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1908
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c95c89061058744f82246deac44e710
+      internalID: -1758078463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_180
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 1908
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d903ea815ccd243b3a2451214491be
+      internalID: 623238645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_181
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1908
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1135b742cd5714a86346856b71c783
+      internalID: 1538876153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1431
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47d346046faea04d9a7dd3db48f1dc7
+      internalID: -116468955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_183
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1431
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee0ce2c1132dd04882d2e470c2b8151
+      internalID: 1682105717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_184
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1431
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540a43ab9d274e141af099fa0e17b536
+      internalID: -696145947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_185
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1431
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9054ba24a31f56d4881c3bc08ca6b3bf
+      internalID: 2007573063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_186
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1431
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23fcdf4bbd8343469e2f771b67edcc2
+      internalID: 572156929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_187
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1431
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c290d04d023082448af004c7e1fdcb3
+      internalID: 87268043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_188
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1431
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83f954ba47baf943912a097a2a48242
+      internalID: -1727284092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_189
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1431
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb834b37a77a4c14798df522c62359d0
+      internalID: 1138306390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_190
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1431
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450b46f5309fd42439daf53a862a4f43
+      internalID: 1061699712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_191
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1431
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f492efd095e709c4fbfeae02c22962b0
+      internalID: 1156546149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_192
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1431
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfc7855e0c70074097866bdb6deed63
+      internalID: -1442799021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_193
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 1431
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ed97aab0e439247a201abe51a1e6b4
+      internalID: 1854515775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_194
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1431
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadc125b5b3a51046a4b8dc234cb823c
+      internalID: -1946675606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 954
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb14b8abe8bf464ba70e27b49cb8a2e
+      internalID: 249792832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_196
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 954
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5bae01e5376484c8c67fca68a51ef1
+      internalID: 1548499169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_197
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 954
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8a0e9772e8c7b45a0540b52053c9ca
+      internalID: -58829965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_198
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 954
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92da4a87328fb824195c8fd4648ecfed
+      internalID: 1690679845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_199
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 954
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8768dfb953cc7f041b9c3ed812058ac4
+      internalID: 857881145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_200
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 954
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a662544d67088d44aa7467951edfab1b
+      internalID: -1724711369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_201
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 954
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bff5798433000c4aa694c7f0f99e0a7
+      internalID: 2008486773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_202
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 954
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fbd309c27757645b3a61a0bb67f53a
+      internalID: -1694995607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_203
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 954
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adfbd6803dcdfe41bc05f3e1a446a74
+      internalID: 1256899527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_204
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 954
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f2e3edda92f944284afa865d8ce7f1
+      internalID: -410714379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_205
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 954
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e036c971c80ac498fceaa47e8db8b4
+      internalID: 1370960671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_206
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 954
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635d867f4e68df14bb08b4d75fdb3904
+      internalID: 792427872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_207
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 954
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a83a7fba0871dc4e8132e0a9195e90e
+      internalID: 1192885157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 477
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944faeed6124e7b489a6dbd30b9602b8
+      internalID: 1794572643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_209
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 477
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114b00bb5d51fe542af57f0453bb4751
+      internalID: -2015362057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_210
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 477
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef95695a15d33df448c62237550133cb
+      internalID: 369742038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_211
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 477
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d0f50427a4b9c459b2b90601ab80e4
+      internalID: 258233259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_212
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 477
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b797a10e5ffc843bf74394a4aa1c0e
+      internalID: 1566218272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_213
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 477
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245faf1f10ce7f34988e4c5a3faf443b
+      internalID: -362412435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_214
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 477
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c9154c0c3c26543a61009388405470
+      internalID: 593259549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_215
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 477
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3e7dfa7ceca7447882ecb8d2d67872
+      internalID: 575650565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_216
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 477
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c334d6ce06ea5c34d9554f6d41fdfb86
+      internalID: -123054087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_217
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 477
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ed73df92d28124698ac1407203e66b
+      internalID: 1686134163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_218
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 477
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9009fcb8518414187c00162db1486a
+      internalID: -1031113556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_219
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 477
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a4ce739be49184d8a64a8faa470a5f
+      internalID: -146385927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_220
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 477
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e5ca8e9e7490f44b8ad7854f01723f
+      internalID: -1819426062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d695b1c00cc27724e834d849b8474e70
+      internalID: -444616204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_222
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a64f8d2357bc054da144363b0aa9e1f
+      internalID: 1678193593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_223
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbfce31b5bace8448008efae1e10cc5
+      internalID: -211536498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_224
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f70104801bcbce4c8835644aac52d3c
+      internalID: 707066397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_225
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a7171945a22224e9779ce655526a02
+      internalID: -1360005953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_226
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ae4d23718bf8541bffafdfc148817f
+      internalID: -2048673734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_227
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce116ee99c86c747bf373692eac94f9
+      internalID: 791622325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_228
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858c1820c72776f439d216fafd09d997
+      internalID: 1345747748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_229
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a602ba835e245ae42886768120d44e3b
+      internalID: 1545246343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_230
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14b1fe6eeb4b3e4f8b01aaa20912d22
+      internalID: -162847591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_231
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1e71c6d5d651c4ab462941232b692d
+      internalID: 494056470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_232
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 0
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2e6749229b71e44acfbc1e52a4beb0
+      internalID: -354746031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ocotelulco_24h_233
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 640
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ada135bf2fa2d449f1ac50238f83fc
+      internalID: -1107552295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ebaa27cd519308842904290962e2b51f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      village_ocotelulco_24h_0: 5370121169851460586
+      village_ocotelulco_24h_1: -126756810
+      village_ocotelulco_24h_10: -224706004
+      village_ocotelulco_24h_100: 1201784886
+      village_ocotelulco_24h_101: -269775962
+      village_ocotelulco_24h_102: 1218490590
+      village_ocotelulco_24h_103: 1373709081
+      village_ocotelulco_24h_104: 477617301
+      village_ocotelulco_24h_105: 1939405386
+      village_ocotelulco_24h_106: 466026741
+      village_ocotelulco_24h_107: 1951003683
+      village_ocotelulco_24h_108: -419033396
+      village_ocotelulco_24h_109: -1083719861
+      village_ocotelulco_24h_11: -593633939
+      village_ocotelulco_24h_110: -651682563
+      village_ocotelulco_24h_111: 590100059
+      village_ocotelulco_24h_112: 390278766
+      village_ocotelulco_24h_113: 493410068
+      village_ocotelulco_24h_114: 1991909972
+      village_ocotelulco_24h_115: 885230450
+      village_ocotelulco_24h_116: 853624828
+      village_ocotelulco_24h_117: 1740429811
+      village_ocotelulco_24h_118: -973857128
+      village_ocotelulco_24h_119: -1639870637
+      village_ocotelulco_24h_12: 603710077
+      village_ocotelulco_24h_120: 614189148
+      village_ocotelulco_24h_121: 1239390294
+      village_ocotelulco_24h_122: 299413128
+      village_ocotelulco_24h_123: 210133246
+      village_ocotelulco_24h_124: 665804219
+      village_ocotelulco_24h_125: -1221962499
+      village_ocotelulco_24h_126: 614687128
+      village_ocotelulco_24h_127: 846765973
+      village_ocotelulco_24h_128: -1850123917
+      village_ocotelulco_24h_129: 1136719745
+      village_ocotelulco_24h_13: -1322537446
+      village_ocotelulco_24h_130: -10309624
+      village_ocotelulco_24h_131: -1779737948
+      village_ocotelulco_24h_132: 1002284497
+      village_ocotelulco_24h_133: 1707080724
+      village_ocotelulco_24h_134: 678170268
+      village_ocotelulco_24h_135: -242560896
+      village_ocotelulco_24h_136: 511750132
+      village_ocotelulco_24h_137: 2013796322
+      village_ocotelulco_24h_138: 597179545
+      village_ocotelulco_24h_139: 355089769
+      village_ocotelulco_24h_14: -1868702710
+      village_ocotelulco_24h_140: -2135870971
+      village_ocotelulco_24h_141: 722682792
+      village_ocotelulco_24h_142: 714406048
+      village_ocotelulco_24h_143: 385507818
+      village_ocotelulco_24h_144: -1640221375
+      village_ocotelulco_24h_145: -1510550117
+      village_ocotelulco_24h_146: 2080312987
+      village_ocotelulco_24h_147: 345023971
+      village_ocotelulco_24h_148: 1640363052
+      village_ocotelulco_24h_149: 2102525337
+      village_ocotelulco_24h_15: -1648806575
+      village_ocotelulco_24h_150: 1041453945
+      village_ocotelulco_24h_151: -1224515894
+      village_ocotelulco_24h_152: -1086073880
+      village_ocotelulco_24h_153: 772224152
+      village_ocotelulco_24h_154: -391730209
+      village_ocotelulco_24h_155: 61045124
+      village_ocotelulco_24h_156: -1499927620
+      village_ocotelulco_24h_157: 373505919
+      village_ocotelulco_24h_158: -736391646
+      village_ocotelulco_24h_159: 2019503933
+      village_ocotelulco_24h_16: -1621569061
+      village_ocotelulco_24h_160: 1169561867
+      village_ocotelulco_24h_161: -213975880
+      village_ocotelulco_24h_162: 1660208618
+      village_ocotelulco_24h_163: -774050040
+      village_ocotelulco_24h_164: 1525474490
+      village_ocotelulco_24h_165: -2076465887
+      village_ocotelulco_24h_166: 574199518
+      village_ocotelulco_24h_167: 775130862
+      village_ocotelulco_24h_168: -534395460
+      village_ocotelulco_24h_169: -1115928518
+      village_ocotelulco_24h_17: 1877511912
+      village_ocotelulco_24h_170: -531402478
+      village_ocotelulco_24h_171: -374323639
+      village_ocotelulco_24h_172: -1186366079
+      village_ocotelulco_24h_173: 1523244390
+      village_ocotelulco_24h_174: 1520504084
+      village_ocotelulco_24h_175: 2023211581
+      village_ocotelulco_24h_176: 1586645835
+      village_ocotelulco_24h_177: 1712877777
+      village_ocotelulco_24h_178: -2027997896
+      village_ocotelulco_24h_179: -1758078463
+      village_ocotelulco_24h_18: 2099683681
+      village_ocotelulco_24h_180: 623238645
+      village_ocotelulco_24h_181: 1538876153
+      village_ocotelulco_24h_182: -116468955
+      village_ocotelulco_24h_183: 1682105717
+      village_ocotelulco_24h_184: -696145947
+      village_ocotelulco_24h_185: 2007573063
+      village_ocotelulco_24h_186: 572156929
+      village_ocotelulco_24h_187: 87268043
+      village_ocotelulco_24h_188: -1727284092
+      village_ocotelulco_24h_189: 1138306390
+      village_ocotelulco_24h_19: 156814655
+      village_ocotelulco_24h_190: 1061699712
+      village_ocotelulco_24h_191: 1156546149
+      village_ocotelulco_24h_192: -1442799021
+      village_ocotelulco_24h_193: 1854515775
+      village_ocotelulco_24h_194: -1946675606
+      village_ocotelulco_24h_195: 249792832
+      village_ocotelulco_24h_196: 1548499169
+      village_ocotelulco_24h_197: -58829965
+      village_ocotelulco_24h_198: 1690679845
+      village_ocotelulco_24h_199: 857881145
+      village_ocotelulco_24h_2: 1365732485
+      village_ocotelulco_24h_20: -2099206186
+      village_ocotelulco_24h_200: -1724711369
+      village_ocotelulco_24h_201: 2008486773
+      village_ocotelulco_24h_202: -1694995607
+      village_ocotelulco_24h_203: 1256899527
+      village_ocotelulco_24h_204: -410714379
+      village_ocotelulco_24h_205: 1370960671
+      village_ocotelulco_24h_206: 792427872
+      village_ocotelulco_24h_207: 1192885157
+      village_ocotelulco_24h_208: 1794572643
+      village_ocotelulco_24h_209: -2015362057
+      village_ocotelulco_24h_21: -1718811065
+      village_ocotelulco_24h_210: 369742038
+      village_ocotelulco_24h_211: 258233259
+      village_ocotelulco_24h_212: 1566218272
+      village_ocotelulco_24h_213: -362412435
+      village_ocotelulco_24h_214: 593259549
+      village_ocotelulco_24h_215: 575650565
+      village_ocotelulco_24h_216: -123054087
+      village_ocotelulco_24h_217: 1686134163
+      village_ocotelulco_24h_218: -1031113556
+      village_ocotelulco_24h_219: -146385927
+      village_ocotelulco_24h_22: 46371828
+      village_ocotelulco_24h_220: -1819426062
+      village_ocotelulco_24h_221: -444616204
+      village_ocotelulco_24h_222: 1678193593
+      village_ocotelulco_24h_223: -211536498
+      village_ocotelulco_24h_224: 707066397
+      village_ocotelulco_24h_225: -1360005953
+      village_ocotelulco_24h_226: -2048673734
+      village_ocotelulco_24h_227: 791622325
+      village_ocotelulco_24h_228: 1345747748
+      village_ocotelulco_24h_229: 1545246343
+      village_ocotelulco_24h_23: 994256522
+      village_ocotelulco_24h_230: -162847591
+      village_ocotelulco_24h_231: 494056470
+      village_ocotelulco_24h_232: -354746031
+      village_ocotelulco_24h_233: -1107552295
+      village_ocotelulco_24h_24: -1286805423
+      village_ocotelulco_24h_25: 973013553
+      village_ocotelulco_24h_26: 1783420649
+      village_ocotelulco_24h_27: -1599538902
+      village_ocotelulco_24h_28: 1334157909
+      village_ocotelulco_24h_29: -260596001
+      village_ocotelulco_24h_3: 449528600
+      village_ocotelulco_24h_30: -391938485
+      village_ocotelulco_24h_31: -858821732
+      village_ocotelulco_24h_32: -37837179
+      village_ocotelulco_24h_33: -1811715866
+      village_ocotelulco_24h_34: -404237197
+      village_ocotelulco_24h_35: 1044398188
+      village_ocotelulco_24h_36: 1562447046
+      village_ocotelulco_24h_37: 416549333
+      village_ocotelulco_24h_38: -566963994
+      village_ocotelulco_24h_39: 471159435
+      village_ocotelulco_24h_4: -366184171
+      village_ocotelulco_24h_40: -274265118
+      village_ocotelulco_24h_41: -290124847
+      village_ocotelulco_24h_42: 726747149
+      village_ocotelulco_24h_43: 1740678330
+      village_ocotelulco_24h_44: 751588419
+      village_ocotelulco_24h_45: -535863870
+      village_ocotelulco_24h_46: 1834840973
+      village_ocotelulco_24h_47: 701814030
+      village_ocotelulco_24h_48: -1017568794
+      village_ocotelulco_24h_49: 1631909177
+      village_ocotelulco_24h_5: 897861790
+      village_ocotelulco_24h_50: -330427864
+      village_ocotelulco_24h_51: 740810115
+      village_ocotelulco_24h_52: -814929520
+      village_ocotelulco_24h_53: -1687835803
+      village_ocotelulco_24h_54: 1588017864
+      village_ocotelulco_24h_55: 522523551
+      village_ocotelulco_24h_56: -1250154099
+      village_ocotelulco_24h_57: 341877727
+      village_ocotelulco_24h_58: 2140628891
+      village_ocotelulco_24h_59: -1111243295
+      village_ocotelulco_24h_6: 1501116867
+      village_ocotelulco_24h_60: -1744990476
+      village_ocotelulco_24h_61: -2146382035
+      village_ocotelulco_24h_62: -8019911
+      village_ocotelulco_24h_63: 315670225
+      village_ocotelulco_24h_64: 1452697198
+      village_ocotelulco_24h_65: -1508988889
+      village_ocotelulco_24h_66: -1128305378
+      village_ocotelulco_24h_67: 1073879689
+      village_ocotelulco_24h_68: -931133093
+      village_ocotelulco_24h_69: 2138324651
+      village_ocotelulco_24h_7: -81272917
+      village_ocotelulco_24h_70: 1954599064
+      village_ocotelulco_24h_71: -473370590
+      village_ocotelulco_24h_72: 1902984780
+      village_ocotelulco_24h_73: -1105143943
+      village_ocotelulco_24h_74: 559255764
+      village_ocotelulco_24h_75: -2100922409
+      village_ocotelulco_24h_76: -1816494186
+      village_ocotelulco_24h_77: -1759211758
+      village_ocotelulco_24h_78: -1037492121
+      village_ocotelulco_24h_79: -614906589
+      village_ocotelulco_24h_8: 961181616
+      village_ocotelulco_24h_80: -299342266
+      village_ocotelulco_24h_81: -1546091911
+      village_ocotelulco_24h_82: -952644749
+      village_ocotelulco_24h_83: 1650089515
+      village_ocotelulco_24h_84: 569402131
+      village_ocotelulco_24h_85: -1792560002
+      village_ocotelulco_24h_86: 143812672
+      village_ocotelulco_24h_87: 1713016612
+      village_ocotelulco_24h_88: -1050455222
+      village_ocotelulco_24h_89: 534902542
+      village_ocotelulco_24h_9: -1458189456
+      village_ocotelulco_24h_90: 1830684208
+      village_ocotelulco_24h_91: -246662022
+      village_ocotelulco_24h_92: -1009037631
+      village_ocotelulco_24h_93: -1078300565
+      village_ocotelulco_24h_94: 681008380
+      village_ocotelulco_24h_95: 740163033
+      village_ocotelulco_24h_96: -322921579
+      village_ocotelulco_24h_97: 63435787
+      village_ocotelulco_24h_98: 352977045
+      village_ocotelulco_24h_99: 1478270319
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

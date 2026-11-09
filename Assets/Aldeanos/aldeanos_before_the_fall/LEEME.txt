@@ -1,0 +1,58 @@
+BEFORE THE FALL - Aldeanos tlaxcaltecas + items (pixel art 32x32)
+=================================================================
+
+CONTENIDO
+---------
+6 aldeanos mercaderes, cada uno con:
+  aldeano_N_<tipo>_walk.png  -> HOJA DE CAMINADO (128x96): 4 filas x 3 columnas
+  aldeano_N_<tipo>.png       -> retrato suelto (mirando al frente)
+
+  Filas de la hoja (de arriba a abajo):  0=ABAJO  1=IZQUIERDA  2=DERECHA  3=ARRIBA
+  Columnas (frames):                     0=paso izq   1=quieto   2=paso der
+
+8 iconos de productos (32x32): item_01_maiz ... item_08_obsidiana
+
+Todos con fondo transparente y contorno oscuro.
+
+-----------------------------------------------------------------
+IMPORTAR EN UNITY
+-----------------------------------------------------------------
+Para TODOS los PNG:
+  Texture Type:    Sprite (2D and UI)
+  Pixels Per Unit: 32
+  Filter Mode:     Point (no filter)
+  Compression:     None
+
+Para las HOJAS de caminado (el _walk.png):
+  Sprite Mode: Multiple  ->  Sprite Editor  ->  Slice
+  Type: Grid By Cell Size   Pixel Size: X=32  Y=32   ->  Slice  ->  Apply
+  Quedan 12 sub-sprites numerados 0..11 (fila por fila).
+
+-----------------------------------------------------------------
+ANIMACIONES (caminar al azar en 4 direcciones)
+-----------------------------------------------------------------
+1) Crea 4 Animation Clips por aldeano arrastrando sus frames:
+     Caminar_Abajo    = sub-sprites 0,1,2
+     Caminar_Izq      = sub-sprites 3,4,5
+     Caminar_Der      = sub-sprites 6,7,8
+     Caminar_Arriba   = sub-sprites 9,10,11
+   (Samples ~6-8 para que se vea el paso)
+2) Tambien crea 4 clips 'Idle' usando solo el frame 1 de cada fila (1,4,7,10).
+3) En el Animator usa un Blend Tree 2D (Directional) con parametros
+   MoveX y MoveY para elegir la direccion, y un Bool 'Caminando'
+   para alternar entre Idle y Caminar.
+   (El script MovimientoAldeano.cs ya envia MoveX, MoveY y Caminando.)
+
+-----------------------------------------------------------------
+QUE PONERLE AL GAMEOBJECT DEL ALDEANO
+-----------------------------------------------------------------
+  - Sprite Renderer
+  - Animator (con el Controller de arriba)
+  - Rigidbody2D  (Body Type: Dynamic, Gravity Scale: 0)
+  - Collider2D   (para chocar con el mundo)
+  - Collider2D extra con 'Is Trigger' = ON  (zona para comerciar)
+  - Scripts: MovimientoAldeano.cs  +  Aldeano.cs  +  InteraccionAldeano.cs
+
+scripts/  -> MovimientoAldeano.cs, PanelTrueque.cs (completo), BotonOferta.cs
+
+Los PNG son sprites, NO scripts: se asignan al Sprite Renderer / Image.
